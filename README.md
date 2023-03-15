@@ -56,7 +56,7 @@ api.disconnect();
 ```
 ## API-Referenz
 ```
-public MySQLAPI(String host, String database, String username, String password, String redisHost, int redisPort)
+public TCodesMySQLAPI(String host, String database, String username, String password, String redisHost, int redisPort)
 ```
 Erstellt eine neue Instanz der MySQL-API mit den angegebenen Verbindungsdaten.
 
