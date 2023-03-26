@@ -12,7 +12,7 @@ import java.util.Calendar;
 import java.util.List;
 import java.util.Map;
 
-public class MySqlAPI {
+public class TCodesMySQLAPI {
     private String host;
     private int port;
     private String database;
@@ -21,7 +21,7 @@ public class MySqlAPI {
     private Connection connection;
     private Jedis jedis;
 
-    public MySqlAPI(String host, int port, String database, String username, String password) {
+    public TCodesMySQLAPI(String host, int port, String database, String username, String password) {
         this.host = host;
         this.port = port;
         this.database = database;
