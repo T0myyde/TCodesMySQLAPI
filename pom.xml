@@ -22,4 +22,8 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <outputDirectory>/home/mc/PA1/plugins</outputDirectory>
+    </build>
+
 </project>
