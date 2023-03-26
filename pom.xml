@@ -23,7 +23,7 @@
     </dependencies>
 
     <build>
-        <outputDirectory>/home/mc/PA1/plugins</outputDirectory>
+        <outputDirectory>/var/lib/jenkins/workspace/test</outputDirectory>
     </build>
 
 </project>
